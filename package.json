@@ -1,0 +1,20 @@
+{
+  "name": "LambdaCDPipeline",
+  "version": "0.0.1",
+  "description": "A JAWS application",
+  "author": "me",
+  "license": "",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "dependencies": {
+    "aws-sdk": "^2.2.11",
+    "bluebird": "^2.10.2",
+    "gift": "^0.6.1",
+    "jaws-core-js": "~0.0.2"
+  }
+}

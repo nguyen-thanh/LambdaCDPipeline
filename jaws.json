@@ -1,0 +1,19 @@
+{
+  "name": "LambdaCDPipeline",
+  "version": "0.0.1",
+  "location": "https://github.com/...",
+  "author": "",
+  "description": "",
+  "domain": "cd-pipeline.com",
+  "stages": {
+    "dev": [
+      {
+        "region": "us-east-1",
+        "iamRoleArnLambda": "arn:aws:iam::667658782138:role/dev-LambdaCDPipeline-r-IamRoleLambda-1AHR53S3O9KU6",
+        "iamRoleArnApiGateway": "arn:aws:iam::667658782138:role/dev-LambdaCDPipeline-r-IamRoleApiGateway-1JDFIFJDAQ8QY",
+        "jawsBucket": "jaws.dev.useast1.cd-pipeline.com",
+        "restApiId": "ta9errw824"
+      }
+    ]
+  }
+}
