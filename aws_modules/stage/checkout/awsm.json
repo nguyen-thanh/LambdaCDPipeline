@@ -9,10 +9,12 @@
         "ignore": [],
         "exclude": [
           "aws-sdk",
-          "nodegit"
+          "nodegit",
+          "s3"
         ],
         "includePaths": [
-          "node_modules/nodegit"
+          "node_modules/nodegit",
+          "node_modules/s3"
         ]
       },
       "excludePatterns": []
