@@ -14,7 +14,7 @@
   "dependencies": {
     "aws-sdk": "^2.2.11",
     "bluebird": "^2.10.2",
-    "gift": "^0.6.1",
-    "jaws-core-js": "~0.0.2"
+    "jaws-core-js": "~0.0.2",
+    "nodegit": "^0.5.0"
   }
 }

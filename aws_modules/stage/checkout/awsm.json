@@ -8,9 +8,12 @@
         "minify": true,
         "ignore": [],
         "exclude": [
-          "aws-sdk"
+          "aws-sdk",
+          "nodegit"
         ],
-        "includePaths": []
+        "includePaths": [
+          "node_modules/nodegit"
+        ]
       },
       "excludePatterns": []
     },

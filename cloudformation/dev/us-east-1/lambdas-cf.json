@@ -18,7 +18,7 @@
         "Timeout": 6,
         "Code": {
           "S3Bucket": "jaws.dev.useast1.cd-pipeline.com",
-          "S3Key": "JAWS/LambdaCDPipeline/dev/lambdas/lStageCheckout@1445707958973.zip"
+          "S3Key": "JAWS/LambdaCDPipeline/dev/lambdas/lStageCheckout@1445718247053.zip"
         },
         "Role": {
           "Ref": "aaLambdaRoleArn"
